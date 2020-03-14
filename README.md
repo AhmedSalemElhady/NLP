@@ -14,7 +14,7 @@ This repository includes for implementations some of the most recent NLP papers.
 # Papers
 Text Coherence Analysis Based on Deep Neural Network [paper] (https://arxiv.org/pdf/1710.07770.pdf)
 
-# dependencies
+# Dependencies
 - [Flair NLP] (https://github.com/flairNLP)
 
 # Development environment
