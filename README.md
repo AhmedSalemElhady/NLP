@@ -11,7 +11,7 @@ This repository includes for implementations some of the most recent NLP papers.
 - [Contributings](#contributings)
 - [Licence](#licence)
 
-# Papers
+# Implemented Papers
 - Text Coherence Analysis Based on Deep Neural Network [paper](https://arxiv.org/pdf/1710.07770.pdf)
 
 # Dependencies
