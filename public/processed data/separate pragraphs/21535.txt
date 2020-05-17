@@ -1,0 +1,1 @@
+0. The aircraft flight manual (AFM) prohibited flight in icing conditions above 26000 feet (except when necessary for descent) . There were indications that the TMS was disconnected about 230 seconds after engine roll-back began . Additionally the AFM did not provide accurate information concerning 'in cloud' correction factor for the outside temperature thermometer . 

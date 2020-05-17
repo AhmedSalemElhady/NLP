@@ -1,0 +1,1 @@
+1. The POH lists the maximum useable fuel capacity as 48-gallons . Utilizing 48-gallons of useable fuel and a flight time of 39-hours results in a calculated fuel flow of approximately 12307 gallons/hour . Post-accident investigation failed to find any fuel in the fuel strainer bowl fuel line leading to the carburetor or fuel filter located on the electric fuel pump . 

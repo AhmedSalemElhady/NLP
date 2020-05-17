@@ -1,0 +1,1 @@
+0. The POH lists the maximum useable fuel capacity as 48-gallons . The pilot indicated that his engine cruise setting was 2350 rpm and that he had leaned the mixture when at cruising altitude . Utilizing 48-gallons of useable fuel and a flight time of 39-hours results in a calculated fuel flow of approximately 12307 gallons/hour . 

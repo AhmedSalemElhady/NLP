@@ -1,0 +1,1 @@
+0. The engine was modified for airplane use by utilizing a propeller belt reduction drive to reduce the engine RPM's to approximately 2500 propeller RPM's . The airspeed indicator was found with the needle stuck at approximately 41 mph . The engine and flight controls exhibited continuity and no pre-impact anomalies were revealed . 

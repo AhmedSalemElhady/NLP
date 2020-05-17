@@ -1,0 +1,1 @@
+0. The change required modification of the LPT case nozzle lock holes . The nozzle segments had rotated 120 degrees within the LPT case but the case itself was not breached . An examination of a cracked 2nd stage nozzle lock from a comparison engine also revealed oxidation and intergranular fracture features consistent with stress rupture . 

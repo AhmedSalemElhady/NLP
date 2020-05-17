@@ -1,0 +1,1 @@
+1. The controller repeatedly instructed the pilot to 'turn . around' and 'make a left turn around' to a heading of 020 degrees . The pilot asked for the heading and it was repeated by the controller . 

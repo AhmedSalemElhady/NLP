@@ -1,0 +1,1 @@
+1. The pilot asked for the heading and it was repeated by the controller . The pilot acknowledged '020' . When the controller asked if the pilot could turn to a heading of 020 the pilot responded 'I'm heading 220' . 

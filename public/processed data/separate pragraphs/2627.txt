@@ -1,0 +1,1 @@
+0. The nozzle segments had rotated 120 degrees within the LPT case but the case itself was not breached . In one case all of the 2nd-stage nozzle locks were broken . According to the engine manufacturer the failures were intergranular "suggesting either stress rupture or sustained peak low cycle fatigue" . 

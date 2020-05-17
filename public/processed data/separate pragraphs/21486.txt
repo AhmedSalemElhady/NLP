@@ -1,0 +1,1 @@
+0. Information from the flight data recorder indicated that during descent from flight level 290 an elevator oscillation occurred . Additionally the AFM did not provide accurate information concerning 'in cloud' correction factor for the outside temperature thermometer . The #1 and #2 engines were shut down due to high turbine gas temperatures . 

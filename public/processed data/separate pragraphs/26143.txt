@@ -1,0 +1,1 @@
+0. The pilot acknowledged '020' . The controller repeatedly instructed the pilot to 'turn . When the controller asked if the pilot could turn to a heading of 020 the pilot responded 'I'm heading 220' . 
